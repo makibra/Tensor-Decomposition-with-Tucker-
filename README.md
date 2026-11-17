@@ -98,8 +98,8 @@ python -m pip install tensorly numpy pandas matplotlib jupyter
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repository>.git
-cd <your-repository>
+git clone https://github.com/makibra/Tensor-Decomposition-with-Tucker-.git
+cd Tensor-Decomposition-with-Tucker-
 ```
 
 Start Jupyter:
